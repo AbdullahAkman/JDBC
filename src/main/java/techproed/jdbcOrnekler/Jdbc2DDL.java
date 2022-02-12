@@ -86,6 +86,7 @@ public class Jdbc2DDL {
 //			  ORNEK7:calisanlar tablosunu siliniz.  
 //			========================================================================*/
 			String dropQuery2 = "DROP TABLE calisanlar5 ";
+		
 			st.execute(dropQuery2);
 		
 			System.out.println("calisanlar tablosu silindi..");
