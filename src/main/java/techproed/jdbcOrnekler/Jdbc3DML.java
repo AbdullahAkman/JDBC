@@ -28,7 +28,7 @@ public class Jdbc3DML {
 	    // bu kotu bir yaklasimdir.
 //		
 //		 String [] sorgular= {   "INSERT INTO bolumler VALUES(95, 'YEMEKHANE', 'ISTANBUL')",// her biri ayrı ayrı sorgu oldugu icin array'in icine attık
-//   	    "INSERT INTO bolumler VALUES(85, 'OFIS','ANKARA')",
+//   	    "INSERT INTO bolumler VALUES(85, 'OFIS', 'ANKARA')",
 //   	    "INSERT INTO bolumler VALUES(75, 'OFIS2', 'VAN')"};
 //		 
 //		 int count=0;
